@@ -1,4 +1,9 @@
 added a line
 hot-fixed
+<<<<<<< HEAD
 master test 111
 hot-test
+=======
+master test
+hot-test 222
+>>>>>>> hot-fix
